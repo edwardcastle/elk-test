@@ -225,11 +225,11 @@ const resetClock = () => {
 
 <style>
 .first-image {
-  background-image: url(first-image.svg);
+  background-image: url(first-image.png);
 }
 
 .second-image {
-  background-image: url(second-image.svg);
+  background-image: url(second-image.png);
 }
 
 .body-background {
