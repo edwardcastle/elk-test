@@ -1,0 +1,55 @@
+body {
+  padding: unset;
+  margin: unset;
+  background-color: #0c1020;
+}
+
+h1 {
+  font-size: 150pt;
+}
+
+h2 {
+  font-size: 40pt;
+  width: 100%;
+  line-height: 1.5em;
+}
+
+@font-face {
+  font-family: "NewzaldTest-Black";
+  src: url(./fonts/NewzaldTest-Black.otf)
+}
+
+@font-face {
+  font-family: "NewzaldTest-BlackItalic";
+  src: url(./fonts/NewzaldTest-BlackItalic.otf)
+}
+
+@font-face {
+  font-family: "NewzaldTest-Bold";
+  src: url(./fonts/NewzaldTest-Bold.otf)
+}
+
+@font-face {
+  font-family: "NewzaldTest-BoldItalic";
+  src: url(./fonts/NewzaldTest-BoldItalic.otf)
+}
+
+@font-face {
+  font-family: "NewzaldTest-Book";
+  src: url(./fonts/NewzaldTest-Book.otf)
+}
+
+@font-face {
+  font-family: "NewzaldTest-BookItalic";
+  src: url(./fonts/NewzaldTest-BookItalic.otf)
+}
+
+@font-face {
+  font-family: "NewzaldTest-Medium";
+  src: url(./fonts/NewzaldTest-Medium.otf)
+}
+
+@font-face {
+  font-family: "NewzaldTest-MediumItalic";
+  src: url(./fonts/NewzaldTest-MediumItalic.otf)
+}
