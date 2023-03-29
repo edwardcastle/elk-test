@@ -9,12 +9,7 @@
     "lint": "eslint . --fix --ignore-path .gitignore"
   },
   "dependencies": {
-    "@jridgewell/sourcemap-codec": "^1.4.14",
-    "@mdi/font": "7.0.96",
     "core-js": "^3.8.3",
-    "gsap": "^3.11.5",
-    "oimo": "^1.0.9",
-    "pinia": "^2.0.23",
     "roboto-fontface": "*",
     "three": "^0.150.1",
     "vue": "^3.2.13",
